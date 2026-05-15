@@ -18,7 +18,7 @@ Blub-LLM is a local, private AI assistant that bridges your local file system di
 ### 1. Prerequisites
 Before firing up the engine, ensure you have the following components installed on your local host system:
 * **Java SDK 17** or higher.
-* **The Release Package** https://github.com/Codeblub/Blub-Hybrid-LLM/releases/tag/New
+* **The Release Package** https://github.com/Codeblub/Blub-Hybrid-LLM/releases
 
 ### 2. Prepare the Models 
 Open your terminal or command prompt and pull the necessary lightweight models to your local device:
