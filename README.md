@@ -1,4 +1,4 @@
-#  Blub-LLM: Private AI Notebook Workspace
+#  Blub-LLM: Private AI Workspace
 
 Blub-LLM is a local, private AI assistant that bridges your local file system directly with a secure GitHub repository workspace. By mounting a virtual `B:\` drive onto your machine, any text file, script, or document you drop inside is instantly read as context by the AI and pushed safely to your cloud cloud layout.
 
