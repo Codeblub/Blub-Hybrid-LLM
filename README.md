@@ -23,8 +23,8 @@ Before firing up the engine, ensure you have the following components installed 
 ### 2. Prepare the Models 
 Open your terminal or command prompt and pull the necessary lightweight models to your local device:
 ```bash
-ollama pull llama3
-ollama pull llava
+./ollama pull llama3
+./ollama pull llava
 
 ```
 
